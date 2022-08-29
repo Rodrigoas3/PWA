@@ -1,5 +1,5 @@
 # PWA
-Estudo de pwa para dispositivos moveis , com entendimento de estrutura necessária para seu fucionamento.
+Estudo de pwa para dispositivos moveis, com entendimento de estrutura necessária para seu funcionamento.
 
 ![image](https://user-images.githubusercontent.com/73699879/187102971-f318035c-1ebd-4bb1-b20c-8e8dbabd433c.png)
 
